@@ -1,2 +1,5 @@
 # hello-world
-a new repository
+
+Hello World,
+
+it's Rząska here :)
